@@ -1,2 +1,4 @@
 # SeniorVitality
-Website showing design process of an elderly aid app.
+Website showing the design process of an elderly aid app.
+https://kadestery.github.io/SeniorVitality/
+
