@@ -37,6 +37,16 @@ h4{
     font-size:large;
 }
 
+h2{
+    font-size:x-large;
+    font-weight: 600;
+}
+
+h3{
+    font-size: large;
+    font-weight: 600;
+}
+
 .row{
     background-color: lightgray;
 }
@@ -57,4 +67,49 @@ h4{
     position: relative;
     float: left;
     margin: 0px 7px -10px -5px;
+}
+
+.dataimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.persimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+}
+
+.wireimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.bibliography {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.reference {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.authors {
+    font-style: italic;
+}
+
+.doi {
+    font-size: 14px;
 }
